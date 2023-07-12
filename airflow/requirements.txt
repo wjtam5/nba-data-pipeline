@@ -1,0 +1,6 @@
+apache-airflow-providers-google
+google-cloud-storage
+pyarrow
+nba_api
+pandas
+asyncio

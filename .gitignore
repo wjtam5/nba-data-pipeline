@@ -1,0 +1,5 @@
+# Ignore following files
+config.sh
+.DS_store
+venv
+airflow/logs/
